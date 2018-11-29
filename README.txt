@@ -1,7 +1,7 @@
 # Programming
 ETO Calculator
 
+Program for calculate evapotranspiration. Evapotranspiration (ET) is the sum of evaporation and plant transpiration from the Earth's land and ocean surface to the atmosphere.
 
 
 
-Za proracun evapotranspiracije potrebni su podaci. Kao primer je postavljen file  Vojvodina_RHMZ_f u csv formatu.
